@@ -12,4 +12,8 @@ opencv-python<br>
 matplotlib<br>
 scikit-image<br>
 scipy<br>
-Pillow
+Pillow<br>
+tk
+
+#Windows 
+exe can be found in releases page (coming soon)
