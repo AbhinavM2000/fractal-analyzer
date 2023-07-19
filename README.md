@@ -1,6 +1,6 @@
 # fractal-analyzer
 
-Calculates optimal binary threshhold that gives maximum fractal dimension for a color image using box counting. Default step size is 5 and range is 10-150 for binarization threshhold. Max scaling default value is 80. These values can be adjusted for accuracy at the cost of computation time.<br>
+Calculates optimal binary threshhold that gives maximum fractal dimension for a color image using box counting. Default step size is 5 and range is 10-150 for binarization threshhold. Max scaling default value is 80. These values can be adjusted for accuracy at the cost of computation time.<br><br><br>
 ![image](https://github.com/AbhinavM2000/fractal-analyzer/assets/46239775/af31c872-8691-4579-ac0b-76398d20a77c)<br>
 ![image](https://github.com/AbhinavM2000/fractal-analyzer/assets/46239775/0e9ad8d1-34ee-416e-aaa1-f845724b0a29)<br>
 ![image](https://github.com/AbhinavM2000/fractal-analyzer/assets/46239775/a1d02a72-b1c6-4afc-ba03-9bf79906b628)<br>
